@@ -1,0 +1,4 @@
+Page 34 - Line 4 - given the word w2 is written ==> given the word w1 is written
+Page 54 - Figure 4.4 is Erdos Renyi Graph and not Zachary's Karate Club as shown in the PDF
+Page 58 - In the Word2Vec function, if using gensim==3.8.0, there is no vector_size argument, the real name is just size. if you use gensim==4.3.1, then use vector_size 
+
